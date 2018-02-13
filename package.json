@@ -1,0 +1,25 @@
+{
+  "name": "cryptama",
+  "version": "1.0.0",
+  "description": "",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Foucher <jfoucher@gmail.com> (http://jfoucher.com/)",
+  "license": "ISC",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "dotenv": "^4.0.0",
+    "eth-query": "^2.1.2",
+    "ethjs": "^0.3.3",
+    "truffle-contract": "^3.0.1",
+    "truffle-hdwallet-provider": "^0.0.3",
+    "webpack-notifier": "^1.5.0",
+    "zeppelin-solidity": "^1.5.0"
+  }
+}
